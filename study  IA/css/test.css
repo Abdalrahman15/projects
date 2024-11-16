@@ -1,0 +1,16 @@
+.btn-hover{
+    background-color: blue;
+    transition: 0.5;
+}
+
+.btn-hover:hover{
+
+    background-color: green;
+
+
+}
+
+p{
+    color: tomato;
+    background-color: black;
+}
